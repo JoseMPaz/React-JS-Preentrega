@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Frame System",
+    "description": "Lightweight and durable bike frame designed for maximum performance and comfort.",
+    "price": 400000,
+    "image": "/img/cuadro.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Break System",
+    "description": "High-performance brake system engineered for precise control, powerful stopping, and rider safety in all conditions.",
+    "price": 35000,
+    "image": "/img/sistema_frenos.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Drivetrain System",
+    "description": "Efficient and durable drivetrain system designed to deliver smooth shifting and maximum power transfer on every ride.",
+    "price": 100000,
+    "image": "/img/sistema_transmision.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Wheel System",
+    "description": "High-performance wheels designed for durability and optimal performance on various terrains.",
+    "price": 50000,
+    "image": "/img/ruedas.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Seat System",
+    "description": "Ergonomic and comfortable seat system designed for long rides and maximum riding pleasure.",
+    "price": 20000,
+    "image": "/img/asiento.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Electrical System",
+    "description": "High-performance electric bike designed for urban commuting and recreational riding.",
+    "price": 800000,
+    "image": "/img/electrica.jpeg"
+  }
+]
